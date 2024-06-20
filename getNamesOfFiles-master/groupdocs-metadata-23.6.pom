@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.groupdocs</groupId>
+  <artifactId>groupdocs-metadata</artifactId>
+  <name>Groupdocs.Metadata</name>
+  <url>https://products.groupdocs.com/metadata</url>
+  <version>23.6</version>
+  <description>
+GroupDocs.Metadata for Java is a full featured class library which allows you to edit metadata associated with various document formats like PDF, DOC, DOCX, PPT, PPTX, VSD, VSDX, many image formats. This library helps to read and edit Audio metadata, manage Video metadata. It supports
+archive formats. This metadata library allows to work with metadata standards like XMP, EXIF, IPTC.
+
+Features:
+
+  * Work with most popular metadata standards: XMP, EXIF, IPTC, Image Resource Blocks, ID3, document properties;
+  * Create, modify and remove metadata associated with supported document and image formats with a few lines of code;
+  * Manage EXIF metadata in Jpeg and TIFF formats;
+  * Manage XMP metadata in image and PDF formats;
+  * Manage Image Resource blocks in image formats;
+  * Manage audio metadata: ID3 tag (ID3v1, ID3v2), Lyrics3 tag, APE;
+  * Utilities to inspect and clean hidden metadata in document formats;
+  * Utilities to Export metadata to Excel/Csv;
+  * Metadata cleanup utility;
+  * MIME type detection;
+  * Read track changes. Accept or reject track changes;
+  * Export to CSV or XLS file.
+
+Supported document formats:
+
+  * Microsoft Word documents - DOC, DOT, DOCX, DOCM, DOTX, DOTM;
+  * Microsoft Excel spreadsheets - XLS, XLT, XLSB, XLSX, XLSM, XLTX, XLTM;
+  * Microsoft PowerPoint presentations - PPT, PPS, POT, PPTX, PPTM, POTX, POTM, PPSX, PPSM;
+  * Microsoft Visio diagrams - VSD, VSS, VDX, VSX, VSDX;
+  * Microsoft Project - MPP, MPT;
+  * Microsoft OneNote - ONE;
+  * Open Document formats - ODS, ODT;
+  * Portable Document Formats - PDF, AI;
+  * AutoCAD - DWG, DXF;
+  * Email - EML, MSG;
+  * Image - BMP, DIB, DCM, DIC, DICM, DJVU, DJV, GIF, J2C, JP2, JPF, JPX, JPEG, JPG, JPE, PNG, PSD, TIFF, TIF, WEBP, EMF, WMF, HEIF, HEIC;
+  * Audio - MP3, WAV;
+  * Video - ASF, AVI, FLV, MKA, MKV, MOV, QT, WEBM;
+  * Ebook - EPUB;
+  * Fonts - OTF, TTF, TTC;
+  * Other formats - TORRENT, VCF, VCARD;
+  * Archive - ZIP.
+
+For more details on the GroupDocs.Metadata for Java API, please visit GroupDocs website at:
+https://products.groupdocs.com/metadata/java
+
+Note: GroupDocs.Metadata for Java will run in evaluation mode. In order to test full features of the product, please request a free 30-day temporary license.
+  </description>
+</project>
